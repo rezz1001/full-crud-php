@@ -13,6 +13,6 @@ User Login
 - username : opmbarang
 - password : 123456
 
-2. Akun Operator Mahasiswa
+3. Akun Operator Mahasiswa
 - username : opmahasiswa
 - password : 123456
